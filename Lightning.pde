@@ -1,6 +1,6 @@
 int y = 0;
-int a = (int)((Math.random()*80)+350);
-int b = (int)((Math.random()*50)+525);
+int a = (int)((Math.random()*70)+350);
+int b = (int)((Math.random()*90)+525);
 void setup(){
   size(1000,1000);
   background(0,0,0);
